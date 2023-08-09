@@ -1,3 +1,5 @@
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DEVPOI&fontAlign=70&rotate=13&fontAlignY=25&desc=Stay%20hungry%2c%20stay%20foolish.&descAlign=70.&descAlignY=44)
+
 ### Hi there 👋
 
 <!--
